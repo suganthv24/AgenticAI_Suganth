@@ -1,0 +1,7 @@
+.venv/
+venv/
+uv.lock
+.vscode/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
